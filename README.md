@@ -1,0 +1,1 @@
+The Supplier Dashboard is a straightforward system for managing supplier-related financial transactions. Users can add suppliers, as well as manage invoices and payments for each supplier. The system supports various actions including creating, updating, and retrieving invoices and payments.
